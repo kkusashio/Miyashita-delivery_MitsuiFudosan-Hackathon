@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "1. Our Vision",
+      "onSale": true,
+      "tags": ["Headphone", "People"],
+      "image": "/park1.jpg",
+      "description": " ",
+      "price": "宮下パークは渋谷での新しい暇つぶしを提供します",
+      "salePrice": null,
+      "ratings": 4.0
+    },
+    {
+      "id": 2,
+      "name": "2. ベンチでも...",
+      "onSale": true,
+      "tags": ["Perfume", "Women"],
+      "image": "/park2.jpg",
+      "description": null,
+      "price": "宮下パーク内のすべてのベンチでご使用いただけます",
+      "salePrice": null,
+      "ratings": 4.5
+    },
+    {
+      "id": 3,
+      "name": "3. 友人を待ちながらでも...",
+      "onSale": true,
+      "tags": ["Nike", "Men"],
+      "image": "/park3.jpg",
+      "description":null,
+      "price": "場所や時間に制限なく使用いただけます",
+      "salePrice": null,
+      "ratings": 4.5
+    },
+    {
+      "id": 4,
+      "name": "4. Sequenceの客室からでも",
+      "onSale": true,
+      "tags": ["Watch", "Men"],
+      "image": "/hotelroom.png",
+      "description": null,
+      "price": "Miyashita ParkのSequenceホテルからでも注文が可能です",
+      "salePrice": null,
+      "ratings": 3.5
+    },
+    {
+      "id": 5,
+      "name": "5. QRコードひとつで好きな食事をおとどけします",
+      "onSale": true,
+      "tags": ["Watch", "Men"],
+      "image": "/qrcodes.png",
+      "description": null,
+      "price": "ライン登録を行って注文をしてください",
+      "salePrice": null,
+      "ratings": 3.5
+    }
+  ]
