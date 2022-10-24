@@ -6,6 +6,12 @@ https://rainbow-smakager-eff9f8.netlify.app/
 ## LINE
 https://liff.line.me/1645278921-kWRPP32q/?accountId=237lwpha
 
+##技術スタック
+* Front①: Nuxt(Vue)→enetlifyでデプロイ
+* Front②: Line API
+* バックエンド: GAS
+
+
 ## Build Setup
 
 ```bash
